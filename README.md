@@ -5,7 +5,7 @@
 An interactive analytics dashboard built with Lovable, using example customer sales data.
 
 ## Live demo
-N/A
+https://gradient-insight-viz.lovable.app
 
 ## Data
 See /data/sample_customer_sales.csv — 100 rows of fictional sales across customers, categories, and regions.
