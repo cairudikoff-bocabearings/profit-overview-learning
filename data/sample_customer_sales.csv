@@ -1,0 +1,101 @@
+Customer Name,Product Category,Item Description,Quantity,Unit Price,Total Sale,COGS,Profit,Profit Margin %,Date,Region
+Pied Piper,Software,Security Suite,1,640,640,180,460,72%,2026-01-19,Southwest
+Northwind Traders,Services,IT Consulting,3,150,450,180,270,60%,2026-01-10,Northeast
+Massive Dynamic,Hardware,Server Rack,3,1800,5400,3300,2100,39%,2026-01-24,Southwest
+Massive Dynamic,Electronics,Webcam HD,1,55,55,22,33,60%,2026-02-27,Southwest
+TechStart Inc.,Accessories,Cable Organizer,25,12,300,100,200,67%,2026-01-13,Southeast
+TechStart Inc.,Accessories,Laptop Stand,5,42,210,80,130,62%,2026-04-18,Southeast
+Oscorp,Electronics,Webcam HD,5,55,275,110,165,60%,2026-05-24,Southeast
+Northwind Traders,Accessories,Cable Organizer,500,12,6000,2000,4000,67%,2026-02-18,Midwest
+Northwind Traders,Accessories,Cable Organizer,1,12,12,4,8,67%,2026-05-25,Northeast
+Black Mesa,Software,Security Suite,20,640,12800,3600,9200,72%,2026-03-22,West
+Aperture Science,Hardware,Network Switch,5,420,2100,1150,950,45%,2026-03-05,Southeast
+Stark Industries,Electronics,Webcam HD,5,55,275,110,165,60%,2026-05-15,West
+Pied Piper,Hardware,Network Switch,1,420,420,230,190,45%,2026-01-31,Southwest
+Massive Dynamic,Software,Analytics Plan,2,1200,2400,520,1880,78%,2026-05-06,West
+TechStart Inc.,Electronics,Webcam HD,10,55,550,220,330,60%,2026-03-29,Midwest
+Black Mesa,Hardware,SSD 2TB,40,185,7400,3800,3600,49%,2026-01-18,Northeast
+Wayne Enterprises,Hardware,SSD 2TB,1,185,185,95,90,49%,2026-01-16,Midwest
+Aperture Science,Hardware,Network Switch,20,420,8400,4600,3800,45%,2026-03-30,Northeast
+Cyberdyne,Services,Onboarding Workshop,1,2200,2200,800,1400,64%,2026-05-07,Northeast
+Umbrella Co,Services,Onboarding Workshop,3,2200,6600,2400,4200,64%,2026-04-12,West
+Wonka Industries,Electronics,4K Monitor,40,320,12800,8400,4400,34%,2026-04-13,Southwest
+Wayne Enterprises,Software,Security Suite,5,640,3200,900,2300,72%,2026-04-17,Midwest
+Soylent Group,Software,CRM Seat,1,480,480,90,390,81%,2026-02-15,Southeast
+Stark Industries,Software,API License (annual),40,5000,200000,40000,160000,80%,2026-05-31,Southeast
+Wayne Enterprises,Services,IT Consulting,2,150,300,120,180,60%,2026-04-18,Southwest
+Vandelay Imports,Accessories,Cable Organizer,10,12,120,40,80,67%,2026-02-02,Southwest
+Black Mesa,Electronics,Mechanical Keyboard,20,95,1900,900,1000,53%,2026-04-12,West
+Soylent Group,Electronics,Mechanical Keyboard,20,95,1900,900,1000,53%,2026-01-16,Southeast
+Blue Ridge Manufacturing,Software,Security Suite,2,640,1280,360,920,72%,2026-01-29,Midwest
+Black Mesa,Electronics,USB-C Cables (bulk),1,2.5,2.5,0.8,1.7,68%,2026-05-26,Southeast
+Oscorp,Electronics,Wireless Mouse,250,18,4500,1750,2750,61%,2026-01-07,Northeast
+Umbrella Co,Accessories,USB Hub,1,28,28,11,17,61%,2026-03-06,Midwest
+Black Mesa,Services,Training Session,1,900,900,300,600,67%,2026-01-30,West
+Cyberdyne,Hardware,Network Switch,5,420,2100,1150,950,45%,2026-01-22,Southeast
+Northwind Traders,Services,Data Migration,40,4800,192000,76000,116000,60%,2026-02-11,Southwest
+Acme Corp,Software,Analytics Plan,2,1200,2400,520,1880,78%,2026-05-20,Northeast
+Tyrell Corp,Services,IT Consulting,5,150,750,300,450,60%,2026-05-13,Midwest
+Initech,Services,Onboarding Workshop,10,2200,22000,8000,14000,64%,2026-02-27,Southwest
+Umbrella Co,Software,Security Suite,3,640,1920,540,1380,72%,2026-02-21,Southwest
+Wonka Industries,Services,IT Consulting,1,150,150,60,90,60%,2026-03-13,West
+Wayne Enterprises,Software,Analytics Plan,40,1200,48000,10400,37600,78%,2026-03-31,Midwest
+Blue Ridge Manufacturing,Software,API License (annual),3,5000,15000,3000,12000,80%,2026-05-01,Southeast
+Pied Piper,Software,Security Suite,1,640,640,180,460,72%,2026-05-03,Midwest
+Blue Ridge Manufacturing,Electronics,Mechanical Keyboard,3,95,285,135,150,53%,2026-05-03,Southeast
+Massive Dynamic,Services,IT Consulting,20,150,3000,1200,1800,60%,2026-04-29,West
+Blue Ridge Manufacturing,Software,CRM Seat,2,480,960,180,780,81%,2026-01-08,Southeast
+Aperture Science,Hardware,SSD 2TB,2,185,370,190,180,49%,2026-05-02,Midwest
+Globex,Accessories,Cable Organizer,1,12,12,4,8,67%,2026-01-06,Northeast
+Northwind Traders,Accessories,Cable Organizer,1,12,12,4,8,67%,2026-04-22,Southeast
+Umbrella Co,Electronics,Wireless Mouse,2,18,36,14,22,61%,2026-03-16,Southwest
+Stark Industries,Accessories,USB Hub,5,28,140,55,85,61%,2026-05-20,West
+Globex,Electronics,Wireless Mouse,50,18,900,350,550,61%,2026-05-30,Southwest
+Massive Dynamic,Accessories,Laptop Stand,100,42,4200,1600,2600,62%,2026-02-08,Southwest
+Tyrell Corp,Electronics,Mechanical Keyboard,2,95,190,90,100,53%,2026-01-02,Southeast
+Initech,Software,Security Suite,1,640,640,180,460,72%,2026-05-23,Northeast
+Pied Piper,Accessories,Cable Organizer,100,12,1200,400,800,67%,2026-05-04,Northeast
+Oscorp,Electronics,4K Monitor,3,320,960,630,330,34%,2026-03-12,Northeast
+Northwind Traders,Accessories,USB Hub,100,28,2800,1100,1700,61%,2026-01-08,Northeast
+Cyberdyne,Services,Onboarding Workshop,5,2200,11000,4000,7000,64%,2026-04-26,Southwest
+Oscorp,Hardware,SSD 2TB,3,185,555,285,270,49%,2026-05-14,Midwest
+Oscorp,Software,Security Suite,2,640,1280,360,920,72%,2026-04-17,Northeast
+Soylent Group,Hardware,Network Switch,1,420,420,230,190,45%,2026-03-03,West
+Blue Ridge Manufacturing,Software,Analytics Plan,1,1200,1200,260,940,78%,2026-02-09,Midwest
+Globex,Services,Onboarding Workshop,40,2200,88000,32000,56000,64%,2026-02-26,Northeast
+Soylent Group,Hardware,Server Rack,3,1800,5400,3300,2100,39%,2026-02-11,West
+Tyrell Corp,Hardware,Network Switch,20,420,8400,4600,3800,45%,2026-02-20,Midwest
+Pied Piper,Electronics,Wireless Mouse,1,18,18,7,11,61%,2026-03-28,Southwest
+Cyberdyne,Hardware,SSD 2TB,1,185,185,95,90,49%,2026-04-09,Midwest
+Tyrell Corp,Accessories,USB Hub,100,28,2800,1100,1700,61%,2026-01-17,Northeast
+Stark Industries,Electronics,USB-C Cables (bulk),5,2.5,12.5,4.0,8.5,68%,2026-03-11,Northeast
+Initech,Services,Onboarding Workshop,20,2200,44000,16000,28000,64%,2026-03-08,West
+Globex,Accessories,Cable Organizer,250,12,3000,1000,2000,67%,2026-05-07,Midwest
+Blue Ridge Manufacturing,Services,IT Consulting,2,150,300,120,180,60%,2026-04-19,Northeast
+Wayne Enterprises,Electronics,USB-C Cables (bulk),5,2.5,12.5,4.0,8.5,68%,2026-01-22,Southwest
+Stark Industries,Electronics,Wireless Mouse,1,18,18,7,11,61%,2026-04-27,Northeast
+Pied Piper,Accessories,USB Hub,5,28,140,55,85,61%,2026-02-03,Northeast
+Tyrell Corp,Software,API License (annual),2,5000,10000,2000,8000,80%,2026-03-09,Northeast
+Initech,Software,Analytics Plan,5,1200,6000,1300,4700,78%,2026-05-16,Southeast
+Hooli,Hardware,SSD 2TB,2,185,370,190,180,49%,2026-03-11,Midwest
+Acme Corp,Services,IT Consulting,1,150,150,60,90,60%,2026-01-05,Southwest
+Oscorp,Software,Security Suite,3,640,1920,540,1380,72%,2026-04-25,Northeast
+Massive Dynamic,Hardware,SSD 2TB,20,185,3700,1900,1800,49%,2026-05-10,Midwest
+Umbrella Co,Software,Analytics Plan,3,1200,3600,780,2820,78%,2026-02-05,West
+Vandelay Imports,Electronics,4K Monitor,1,320,320,210,110,34%,2026-01-19,Midwest
+Massive Dynamic,Software,API License (annual),1,5000,5000,1000,4000,80%,2026-04-08,Southwest
+Hooli,Accessories,Laptop Stand,5,42,210,80,130,62%,2026-01-12,West
+Initech,Software,Analytics Plan,40,1200,48000,10400,37600,78%,2026-01-01,Midwest
+Vandelay Imports,Services,Data Migration,3,4800,14400,5700,8700,60%,2026-01-09,Midwest
+Umbrella Co,Services,Onboarding Workshop,1,2200,2200,800,1400,64%,2026-03-27,West
+Blue Ridge Manufacturing,Hardware,Network Switch,3,420,1260,690,570,45%,2026-03-05,Southwest
+Acme Corp,Electronics,Wireless Mouse,1,18,18,7,11,61%,2026-02-06,West
+Aperture Science,Electronics,Mechanical Keyboard,1,95,95,45,50,53%,2026-03-18,Midwest
+Stark Industries,Electronics,Webcam HD,2,55,110,44,66,60%,2026-04-10,Midwest
+Wonka Industries,Software,Analytics Plan,2,1200,2400,520,1880,78%,2026-01-12,Southwest
+Massive Dynamic,Accessories,Laptop Stand,100,42,4200,1600,2600,62%,2026-05-10,Southwest
+Acme Corp,Accessories,Cable Organizer,500,12,6000,2000,4000,67%,2026-02-28,Northeast
+Acme Corp,Electronics,4K Monitor,10,320,3200,2100,1100,34%,2026-01-27,West
+Cyberdyne,Accessories,Laptop Stand,500,42,21000,8000,13000,62%,2026-01-05,Southwest
+Stark Industries,Hardware,Network Switch,1,420,420,230,190,45%,2026-04-27,Northeast
+Tyrell Corp,Accessories,Laptop Stand,500,42,21000,8000,13000,62%,2026-05-15,Northeast
