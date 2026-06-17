@@ -1,5 +1,6 @@
 import { useState, useMemo, useEffect, useRef, useCallback } from 'react'
 import Papa from 'papaparse'
+import { supabase } from './supabase.js'
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip,
   ResponsiveContainer, Cell, PieChart, Pie, Legend,
@@ -131,21 +132,28 @@ export default function App() {
   const [fileName, setFileName]       = useState('Sample Data')
   const fileRef                       = useRef(null)
 
-  // Load the bundled CSV on first render
+  // Load data from Supabase on first render
   useEffect(() => {
-    fetch('/data/sales.csv')
-      .then(r => r.text())
-      .then(text => {
-        Papa.parse(text, {
-          header: true,
-          skipEmptyLines: true,
-          complete: result => {
-            setRows(parseRows(result.data))
-            setLoading(false)
-          },
-        })
+    supabase
+      .from('sales')
+      .select('*')
+      .then(({ data, error }) => {
+        if (error) { console.error(error); setLoading(false); return }
+        setRows(
+          (data || []).map(r => ({
+            customer:  r.customer_name,
+            category:  r.product_category,
+            item:      r.item_description,
+            quantity:  r.quantity,
+            totalSale: r.total_sale,
+            cogs:      r.cogs,
+            profit:    r.profit,
+            date:      r.sale_date,
+            region:    r.region,
+          }))
+        )
+        setLoading(false)
       })
-      .catch(() => setLoading(false))
   }, [])
 
   const handleUpload = useCallback(e => {
